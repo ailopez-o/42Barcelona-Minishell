@@ -34,7 +34,7 @@
 <p>Bash Reference Manua:https://www.gnu.org/software/bash/manual/bash.html#Bourne-Shell-Builtins</p>
 <p>termcap - base de datos con características de terminales:https://manpages.ubuntu.com/manpages/impish/es/man5/termcap.5.html</p>
 <p>termcap - cursor move:https://www.gnu.org/software/termutils/manual/termcap-1.3/html_node/termcap_26.html</p>
-<p>Best README:[https://www.gnu.org/software/termutils/manual/termcap-1.3/html_node/termcap_26.html](https://github.com/gleal42/42_Minishell)https://github.com/gleal42/42_Minishell](https://github.com/gleal42/42_Minishell)https://github.com/gleal42/42_Minishell</p>
+<p>Best README:https://github.com/gleal42/42_Minishell</p>
 
 
 
